@@ -13,7 +13,7 @@ body{
 .weather-picture{
     width:100%;
     height:400px;
-    background-image: url('img/bb.pn');
+    background-image: url('img/bb.png');
     background-position:0 -200px;
     background-repeat:no-repeat;
     background-size:cover;
